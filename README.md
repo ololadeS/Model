@@ -15,10 +15,10 @@ and the models were fit to the tranning data and tested on the test data.
 
 - Model evaluation: The accuracy score for each models are shown in the below 
 
-                        | Model | Score   | 
-                        | :-----: | :---: | 
-                        | Logistic | 0.84 | 
-                        | RandomF | 0.96 | 
+| Model | Score   | 
+| :-----: | :---: | 
+| Logistic | 0.84 | 
+| RandomF | 0.96 | 
 
 
 ### Conclusion 
