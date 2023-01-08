@@ -20,12 +20,11 @@ and the models were fit to the tranning data and tested on the test data.
 | RandomF | 0.96 | 
 
  
-
- 
-### Conclusion 
-Both the Logistic regression and Random Forest model were able to accurately predict customer statisfaction with airline services but the random forest had a better performance 
-
 | Model | Score   | 
 | :-----: | :---: | 
 | Logistic | 0.84 | 
 | RandomF | 0.96 | 
+
+
+### Conclusion 
+Both the Logistic regression and Random Forest model were able to accurately predict customer statisfaction with airline services but the random forest had a better performance 
