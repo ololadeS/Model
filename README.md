@@ -14,9 +14,9 @@ The data was derived from Kaggle website. The data included over 120 thousands c
 and the models were fit to the tranning data and tested on the test data.
 
 - Model evaluation: The accuracy score for each model are shown in the below 
-             | Model          | Accuracy Score 
-             | Logistic reg   | 0.83
-             | Random Forest  | 0.96
+             | Model          | Accuracy Score |
+             | Logistic reg   | 0.83           |
+             | Random Forest  | 0.96           |
   
 ### Conclusion 
 Both the logistic and regression model were able to accurately predict customer statisfaction with airline services but the random forest had a better performance 
