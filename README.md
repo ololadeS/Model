@@ -13,7 +13,7 @@ The data was derived from Kaggle website. The data included over 120 thousands c
     ![image](https://user-images.githubusercontent.com/100509275/211209049-dda0bf70-6ad6-4bef-9b1d-53dcddc21480.png)
 and the models were fit to the tranning data and tested on the test data.
 
-- Model evaluation: The accuracy score for each models are shown in the below 
+- Model evaluation: The accuracy score for each models are shown below 
 
 | Model | Score   | 
 | :-----: | :---: | 
