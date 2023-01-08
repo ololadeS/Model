@@ -17,8 +17,8 @@ and the models were fit to the tranning data and tested on the test data.
 
 | Model | Score   | 
 | :-----: | :---: | 
-| Logistic | 0.84 | 
-| RandomF | 0.96 | 
+| Logistic reg | 0.84 | 
+| Random Forest | 0.96 | 
 
 
 ### Conclusion 
